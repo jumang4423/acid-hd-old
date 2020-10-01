@@ -1,13 +1,11 @@
 # psyche substances harm reduction repo
 
-> * here is the repo for when u took psychedelics subtances accidentally
-> * again, we <strong>DO NOT</strong> promote the use of legal, or illegal psychoactive substances
-> * so that this repository for <strong>harm reduction purposes</strong>
-
->  [go to the page in english](english/main.md)
-
 > * ここはサイケデリクスを引き起こす物質を<strong>誤って</strong>接種してしまった人向けのリポジトリになります。
 > * 故にjumangは違法合法問わず向精神物質およびサイケデリックを引き起こす物質の所持、使用を進めてはいません。
 > * ハームリダクションおよびエンターテイメントとしての閲覧をよろしくお願いします。
 
->  [日本語のページに進む](japanese/main.md)
+## それを接種する意味＆目的
+
+パーティドラッグとしての利用もされるLSDだが、これは視覚聴覚が拡張するためいつもとは違う音の聞こえ方を体験出来たり、感覚の変化を楽しむ使用方法である。
+
+一方で
