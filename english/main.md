@@ -16,5 +16,5 @@
     - [music u gotta listen to](music.md)
     - [foods](food.md)
 
-- 接種中の注意
+- while u on psychedelic
     - [how to take](howto.md)
