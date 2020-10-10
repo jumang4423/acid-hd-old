@@ -1,3 +1,4 @@
+![AWESOME CHEATSHEETS LOGO](_design/bk.png)
 # psyche substances harm reduction repo
 
 > * here is the repo for when u took psychedelics subtances accidentally
