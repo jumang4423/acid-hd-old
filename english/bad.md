@@ -2,7 +2,8 @@
 
 
 ## remember, this happens to anyone under the influence
-    most of the case, this will be caused by unpleasure trip sitter directions or...your mental health so that this happens a lot basically
+    most of the case, this will be caused by unpleasure trip sitter directions 
+    or...your mental health so that this happens a lot basically
     although its not possible to actually stop being on acid right now, i will give u some tips u should know
 
 ## remember that u on acid right now
