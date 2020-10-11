@@ -7,3 +7,6 @@
 
 ## trip sitter should me no on acid
     if one side were into bad trip, another side should be into bad trip
+
+#
+### [go back](main.md)

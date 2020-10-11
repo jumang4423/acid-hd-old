@@ -18,3 +18,6 @@
 
 - while u on psychedelic
     - [how to take](howto.md)
+
+#
+### [back to README.md](../README.md)

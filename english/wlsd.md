@@ -12,3 +12,6 @@
 - effects typically begin within half an hour and can last for up to 12 hours
 
 - in pure form, LSD is clear or white in color, has no smell, and is crystalline
+
+#
+### [go back](main.md)

@@ -16,3 +16,6 @@
 ## turn off ur devices
     sudden sns notifications or phone call sometimes trigger u bad trips or ugly feeling
     do not use or close them
+
+#
+### [go back](main.md)
