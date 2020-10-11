@@ -8,4 +8,4 @@
     u tired, drink a bunch of alcohole
 
 #
-### [go back](main.md)
+### [back](main.md)

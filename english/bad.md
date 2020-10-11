@@ -20,4 +20,4 @@
     being on acid we sometimes forget to breath, which is really important thing for human being
 
 #
-### [go back](main.md)
+### [back](main.md)

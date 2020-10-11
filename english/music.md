@@ -29,4 +29,4 @@
     - 'gms and amigos ii' by GMS
 
 #
-### [go back](main.md)
+### [back](main.md)

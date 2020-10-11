@@ -9,4 +9,4 @@
     if one side were into bad trip, another side should be into bad trip
 
 #
-### [go back](main.md)
+### [back](main.md)

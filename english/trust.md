@@ -8,4 +8,4 @@
     bitter lsd...immediately remove from your mouth, really dangerous substances
 
 #
-### [go back](main.md)
+### [back](main.md)

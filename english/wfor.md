@@ -8,4 +8,4 @@
     many artist were inspired by psychedelic drugs that can find creative insriration
 
 #
-### [go back](main.md)
+### [back](main.md)
