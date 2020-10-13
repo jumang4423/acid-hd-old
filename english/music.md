@@ -6,7 +6,7 @@
     - do not try to listen to scary ugly cringy music, please stop
 
 # noice albums
-## techno
+- ## techno
     - 'collapse ep' by aphex twin
     - 'orbvs terrarvm' by the orb
     - '777' by system 7
@@ -18,14 +18,14 @@
     - 'red burb' by rei harakami
     - 'soup' by bola
     - 'XTLP' by u-Ziq
-## psycedelic rock
+- ## psycedelic rock
     - 'aoxomoxoa' by grateful dead
-## ambient
+- ## ambient
     - 'okie dokie its the orb on kompakt' by the orb
     - '新しい日の誕生' by 2814
-## hiphop
+- ## hiphop
     - '25.8%' by phennel koliander
-## psycedelic trance(i dont recommend these doe )
+- ## psycedelic trance(i dont recommend these doe )
     - 'right here right now' by fabio fusco
     - 'gms and amigos ii' by GMS
 
