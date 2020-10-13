@@ -1,5 +1,6 @@
 # what is the 'psychedelic' basically
 
+
 ## one of psychedelic subtances, lsd 
 [about lsd on wikipedia](https://en.wikipedia.org/wiki/Lysergic_acid_diethylamide)
 
