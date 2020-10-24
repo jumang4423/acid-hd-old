@@ -1,7 +1,7 @@
-# what is the 'psychedelic' basically
+# what is the 'acid' basically
 
 
-## one of psychedelic subtances, lsd 
+## one of acid subtances, lsd 
 [about lsd on wikipedia](https://en.wikipedia.org/wiki/Lysergic_acid_diethylamide)
 
     - lysergic acid diethylamide, also known colloquially as acid, is a hallucinogenic drug

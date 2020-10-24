@@ -7,7 +7,7 @@
 
 
 - before u take
-    - [what is the 'psychedelic' basically](wlsd.md)
+    - [what is the 'acid' basically](wlsd.md)
     - [y we should be on acid](wfor.md)
 
 - setting
