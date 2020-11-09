@@ -11,11 +11,11 @@
     - [y we should be on acid](wfor.md)
 
 - setting
-    - [cleaning ur room now](cleaning.md)
+    - [cleaning ur room](cleaning.md)
     - [do u trust your substances?](trust.md)
     - [trip sitter](sit.md)
     - [bad trip](bad.md)
-    - [music u gotta listen to](music.md)
+    - [music](music.md)
     - [foods](food.md)
 
 - while u on psychedelic
