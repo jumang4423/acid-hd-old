@@ -9,6 +9,7 @@
 - before u take
     - [what is the 'acid' basically](wlsd.md)
     - [y we should be on acid](wfor.md)
+    - [kind of acid](type.md)
 
 - setting
     - [cleaning ur room](cleaning.md)

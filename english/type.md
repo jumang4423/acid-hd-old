@@ -1,12 +1,12 @@
-# law
+# kind of acid
 
 
-## legal
+## legal(japan)
   - 1B-LSD
   - 1CP-LSD
   - LSA
 
-## illegal
+## illegal(japan)
   - LSD
   - 1P-LSD
   - ALD-52
