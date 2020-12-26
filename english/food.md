@@ -14,7 +14,6 @@
     - asari meso soup
     - hi-chewing
     - potato chips
-    - pizza
     - rum raisin
 
 - ## not try to eat something include chemical synthetis things
