@@ -23,6 +23,7 @@
 ## ambient
     - 'okie dokie its the orb on kompakt' by the orb
     - '新しい日の誕生' by 2814
+    - 'blue carpet' by user18081971
 ## hiphop
     - '25.8%' by phennel koliander
 ## psycedelic trance(おススメしません)
