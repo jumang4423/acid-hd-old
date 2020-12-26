@@ -7,6 +7,7 @@
 - 接種前の情報提供
     - [acidとは](wlsd.md)
     - [接種する意味＆目的](wfor.md)
+    - [acidの種類](type.md)
 
 - セッティング
     - [部屋の掃除](cleaning.md)
